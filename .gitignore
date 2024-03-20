@@ -49,3 +49,6 @@ venv.bak/
 
 # misc
 *.pyc
+
+# data 
+data/
